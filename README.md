@@ -24,5 +24,5 @@ Desenvolvedora FullStack | PHP, JavaScript, MySQL | Foco em soluções web e sis
 ---
 
 ## Contato
-- E-mail: seuemail@exemplo.com  
+- E-mail: rubiarobertac@gmail.com
 - LinkedIn: [perfil](www.linkedin.com/in/rúbia-cacemiro)
