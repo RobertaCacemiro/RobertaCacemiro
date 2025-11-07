@@ -1,9 +1,7 @@
-# Olá, eu sou a Rúbia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou a Rúbia 
 
-**Desenvolvedora FullStack**  
-🌐 **PHP | JavaScript | MySQL | Foco em soluções web e sistemas de gestão**  
-
-[🔗 LinkedIn](https://www.linkedin.com/in/rúbia-cacemiro) | [🌟 Portfólio](https://robertacacemiro.github.io/MeuPortfolio/)
+**Desenvolvedora FullStack** — *transformando ideias em soluções digitais eficientes.*  
+[**Portfólio Profissional**](https://robertacacemiro.github.io/MeuPortfolio/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" style="vertical-align: middle; margin-left: 5px;">
 
 ---
 
