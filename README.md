@@ -28,7 +28,7 @@ Desenvolvedora FullStack | PHP, JavaScript, MySQL | Foco em soluções web e sis
 - LinkedIn: [perfil](www.linkedin.com/in/rúbia-cacemiro)
 
 
-![Rúbia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&theme=transparent&hide_border&locale=pt-br)
+![Rúbia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaCacemiro&layout=compact&theme=transparent&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaCacemiro&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br)
 
