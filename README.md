@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Tenho **3 anos de experiência** na área de desenvolvimento web, atuando com PHP, JavaScript, MySQL e integração de sistemas.  
+Tenho **3 anos de experiência** na área de desenvolvimento web. 
 Atualmente estou no **último semestre** do curso de **Tecnologia em Sistemas para Internet** na [**Universidade do Vale do Itajaí (Univali)**](https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai), considerada **uma das maiores universidades da América Latina** segundo o ranking *Times Higher Education*.
 
 Sou apaixonada pelo que faço, trabalho para criar soluções digitais que facilitem o dia a dia das pessoas e tragam resultados reais para empresas.
