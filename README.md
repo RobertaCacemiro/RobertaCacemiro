@@ -1,34 +1,56 @@
-# Olá, eu sou a Rúbia 👋
+# 👋 Olá, eu sou a Rúbia  
 
-Desenvolvedora FullStack | PHP, JavaScript, MySQL | Foco em soluções web e sistemas de gestão  
+💻 **Desenvolvedora FullStack**  
+🌐 **PHP | JavaScript | MySQL | Foco em soluções web e sistemas de gestão**  
 
-[LinkedIn](www.linkedin.com/in/rúbia-cacemiro) | [Portfólio](https://robertacacemiro.github.io/MeuPortfolio/)
-
----
-
-## Sobre mim
-- 3 anos de experiência em desenvolvimento web com PHP, JavaScript, MySQL e jQuery  
-- Experiência em sistemas de gestão e funcionalidades financeiras  
-- Prática com versionamento de código usando Git  
-- Busco sempre escrever código limpo e manter boas práticas  
+[🔗 LinkedIn](https://www.linkedin.com/in/rúbia-cacemiro) | [🌟 Portfólio](https://robertacacemiro.github.io/MeuPortfolio/)
 
 ---
 
-## Tecnologias
-- **Frontend:** JavaScript, HTML, CSS, jQuery, Vue.js  
-- **Backend:** PHP, Laravel  
-- **Banco de dados:** MySQL  
-- **Versionamento:** Git  
-- **Outras:** Integração com APIs  
+## 💬 Sobre mim  
+- 💼 3 anos de experiência em desenvolvimento web com **PHP**, **JavaScript**, **MySQL** e **jQuery**  
+- ⚙️ Experiência em **sistemas de gestão** e **funcionalidades financeiras**  
+- 🔁 Prática com **versionamento de código (Git)**  
+- ✨ Busco sempre escrever **código limpo** e seguir **boas práticas**
 
 ---
 
-## Contato
-- E-mail: rubiarobertac@gmail.com
-- LinkedIn: [perfil](www.linkedin.com/in/rúbia-cacemiro)
+## 🚀 Tecnologias  
 
+**Frontend:**  
+🟨 JavaScript | 🧩 jQuery | 🧱 HTML | 🎨 CSS | ⚡ Vue.js  
 
-![Rúbia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br)
+**Backend:**  
+🐘 PHP | 🔥 Laravel  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaCacemiro&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br)
+**Banco de Dados:**  
+🗄️ MySQL  
 
+**Versionamento:**  
+🌿 Git  
+
+**Outras:**  
+🔗 Integração com APIs  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaCacemiro&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br" 
+    height="180em"
+  />
+
+</div>
+
+---
+
+## 📬 Contato  
+✉️ **E-mail:** [rubiarobertac@gmail.com](mailto:rubiarobertac@gmail.com)  
+🔗 **LinkedIn:** [Rúbia Cacemiro](https://www.linkedin.com/in/rúbia-cacemiro)
