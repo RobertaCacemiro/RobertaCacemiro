@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou a Rúbia  
+# Olá, eu sou a Rúbia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻 **Desenvolvedora FullStack**  
+**Desenvolvedora FullStack**  
 🌐 **PHP | JavaScript | MySQL | Foco em soluções web e sistemas de gestão**  
 
 [🔗 LinkedIn](https://www.linkedin.com/in/rúbia-cacemiro) | [🌟 Portfólio](https://robertacacemiro.github.io/MeuPortfolio/)
