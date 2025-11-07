@@ -20,9 +20,9 @@ Sou apaixonada pelo que faço, trabalho para criar soluções digitais que facil
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br" 
-    height="180em"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=RobertaCacemiro&show_icons=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20GitHub" 
+  height="180em"
+/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertaCacemiro&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&hide_border=true&locale=pt-br" 
     height="180em"
