@@ -26,3 +26,9 @@ Desenvolvedora FullStack | PHP, JavaScript, MySQL | Foco em soluções web e sis
 ## Contato
 - E-mail: rubiarobertac@gmail.com
 - LinkedIn: [perfil](www.linkedin.com/in/rúbia-cacemiro)
+
+
+![Rúbia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+
