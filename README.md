@@ -2,7 +2,7 @@
 
 **Desenvolvedora FullStack** — criando soluções web modernas e eficientes.  
 
-[**Conheça meus trabalhos**](https://robertacacemiro.github.io/MeuPortfolio/)
+[**Veja meus projetos e stacks detalhadas no meu portfólio**](https://robertacacemiro.github.io/MeuPortfolio/)
 
 ---
 
