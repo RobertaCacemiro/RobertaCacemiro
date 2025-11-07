@@ -3,36 +3,19 @@
 **Desenvolvedora FullStack** — criando soluções web modernas e eficientes.  
 
 [**Conheça meus trabalhos**](https://robertacacemiro.github.io/MeuPortfolio/)
----
-
-## 💬 Sobre mim  
-- 💼 3 anos de experiência em desenvolvimento web com **PHP**, **JavaScript**, **MySQL** e **jQuery**  
-- ⚙️ Experiência em **sistemas de gestão** e **funcionalidades financeiras**  
-- 🔁 Prática com **versionamento de código (Git)**  
-- ✨ Busco sempre escrever **código limpo** e seguir **boas práticas**
 
 ---
 
-## 🚀 Tecnologias  
+## Sobre mim
 
-**Frontend:**  
-🟨 JavaScript | 🧩 jQuery | 🧱 HTML | 🎨 CSS | ⚡ Vue.js  
+Tenho **3 anos de experiência** na área de desenvolvimento web, com foco em **PHP, JavaScript e MySQL**.  
+Atualmente, estou no **último semestre do curso de Tecnologia em Sistemas para Internet na [Univali](https://www.univali.br/)**, considerada **uma das maiores universidades da América Latina** segundo o [Ranking Universitário Folha (RUF)](https://ruf.folha.uol.com.br/2023/ranking-de-universidades/).
 
-**Backend:**  
-🐘 PHP | 🔥 Laravel  
-
-**Banco de Dados:**  
-🗄️ MySQL  
-
-**Versionamento:**  
-🌿 Git  
-
-**Outras:**  
-🔗 Integração com APIs  
+Sou apaixonada pelo que faço, trabalho para criar soluções digitais que facilitem o dia a dia das pessoas e tragam resultados reais para empresas.
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -49,6 +32,12 @@
 
 ---
 
-## 📬 Contato  
-✉️ **E-mail:** [rubiarobertac@gmail.com](mailto:rubiarobertac@gmail.com)  
-🔗 **LinkedIn:** [Rúbia Cacemiro](https://www.linkedin.com/in/rúbia-cacemiro)
+## Contato
+
+<a href="mailto:rubiarobertac@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-rubiarobertac%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rúbia-cacemiro" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Rúbia%20Cacemiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
