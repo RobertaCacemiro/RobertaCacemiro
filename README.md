@@ -1,8 +1,7 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou a Rúbia 
+# Olá, eu sou a Rúbia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Desenvolvedora FullStack** — *transformando ideias em soluções digitais eficientes.*  
-[**Portfólio Profissional**](https://robertacacemiro.github.io/MeuPortfolio/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20px" style="vertical-align: middle; margin-left: 5px;">
-
+**Desenvolvedora FullStack** — criando soluções web modernas e eficientes.  
+[Conheça meus trabalhos](https://robertacacemiro.github.io/MeuPortfolio/)
 ---
 
 ## 💬 Sobre mim  
